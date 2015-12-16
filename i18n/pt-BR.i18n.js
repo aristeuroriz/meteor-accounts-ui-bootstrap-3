@@ -2,14 +2,14 @@ ptBR = {
 	resetPasswordDialog: {
 		title: "Esqueceu sua senha?",
 		newPassword: "Nova senha",
-		newPasswordAgain: "Nova senha (confirmacao)",
+		newPasswordAgain: "Nova senha (confirmação)",
 		cancel: "Cancelar",
 		submit: "Alterar senha"
 	},
 	enrollAccountDialog: {
 		title: "Digite a nova senha",
 		newPassword: "Nova senha",
-		newPasswordAgain: "Nova senha (confirmacao)",
+		newPasswordAgain: "Nova senha (confirmação)",
 		cancel: "Fechar",
 		submit: "Alterar senha"
 	},
@@ -50,14 +50,14 @@ ptBR = {
 		cancel: "Cancelar"
 	},
 	loginButtonsLoggedOutSingleLoginButton: {
-		signInWith: "Logar com",
+		signInWith: "Entrar com",
 		configure: "Configurar",
 	},
 	loginButtonsLoggedInSingleLogoutButton: {
 		signOut: "Sair"
 	},
 	loginButtonsLoggedOut: {
-		noLoginServices: "Nenhum servico de login configurado"
+		noLoginServices: "Nenhum serviço de login configurado"
 	},
 	loginFields: {
 		usernameOrEmail: "Usuário ou E-mail",
@@ -70,12 +70,12 @@ ptBR = {
 		email: "E-mail",
 		emailOpt: "E-mail (opcional)",
 		password: "Senha",
-		passwordAgain: "Senha (confirmacão)"
+		passwordAgain: "Senha (confirmação)"
 	},
 	changePasswordFields: {
 		currentPassword: "Senha atual",
 		newPassword: "Nova Senha",
-		newPasswordAgain: "Nova Senha (confirmacao)"
+		newPasswordAgain: "Nova Senha (confirmação)"
 	},
 	infoMessages: {
 		emailSent: "E-mail enviado",

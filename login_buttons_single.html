@@ -1,7 +1,10 @@
 <template name="_loginButtonsLoggedOutSingleLoginButton">
 	{{#if configured}}
-		<button class="login-button btn btn-block btn-{{capitalizedName}}">{{i18n 'loginButtonsLoggedOutSingleLoginButton.signInWith'}} {{capitalizedName}}</button>
+	<a class="login-button btn btn-block btn-social btn-{{Name}}">
+		<span class="fa fa-{{Name}}"></span>
+		{{i18n 'loginButtonsLoggedOutSingleLoginButton.signInWith'}} {{capitalizedName}}
+	</a>
 	{{else}}
-		<button class="login-button btn btn-block configure-button btn-danger">{{i18n 'loginButtonsLoggedOutSingleLoginButton.configure'}} {{capitalizedName}}</button>
+	<a class="login-button btn btn-block configure-button btn-danger">{{i18n 'loginButtonsLoggedOutSingleLoginButton.configure'}} {{capitalizedName}}</a>
 	{{/if}}
 </template>
