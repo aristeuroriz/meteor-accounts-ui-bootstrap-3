@@ -1,6 +1,6 @@
 Package.describe({
     name: 'aristeuroriz:accounts-ui-bootstrap-3',
-    summary: 'Bootstrap-styled accounts-ui with multi-language support and bootstrap-social for lipis added.',
+    summary: 'Bootstrap-styled accounts-ui with multi-language support and bootstrap-social (http://lipis.github.io/bootstrap-social) for lipis added.',
     version: '1.2.84',
     git: "https://github.com/aristeuroriz/meteor-accounts-ui-bootstrap-3"
 })
