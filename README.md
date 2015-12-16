@@ -1,7 +1,7 @@
 meteor-accounts-ui-bootstrap-3
 ==============================
 
-Meteor accounts-ui styled with Twitter's Bootstrap 3, now with multi-language support.
+Bootstrap-styled accounts-ui with multi-language support and bootstrap-social (http://lipis.github.io/bootstrap-social) for lipis added.
 
 Installation
 ------------
